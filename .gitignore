@@ -1,0 +1,17 @@
+
+
+# Editor files and folders
+.vscode/
+.idea/
+
+# vscode workspace
+Logging.code-workspace
+
+# project folders
+bin/
+objs/
+include/
+
+Makefile
+
+
