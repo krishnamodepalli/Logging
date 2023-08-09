@@ -17,7 +17,9 @@ like that.** This is purely the sole implementation by [Krishna Modepalli](https
 I am also planning to add all the required functionalities of a basic and the
 complex loggers soon. For now, just a basic logger.
 
-> Usage and docs will be loaded soon.
+> Usage and docs will be loaded soon.  
+
+> **Declaimer** : *This Logger is not yet thread safe. Will be soon.*
 
 ## TODO:
 - [ ] Add synchronization / thread_safety
