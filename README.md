@@ -19,9 +19,9 @@ complex loggers soon. For now, just a basic logger.
 
 > Usage and docs will be loaded soon.  
 
-> **Declaimer** : *This Logger is not yet thread safe. Will be soon.*
+> **Declaimer** : *This Logger is now thread safe.*
 
 ## TODO:
-- [ ] Add synchronization / thread_safety
+- [X] Add synchronization / thread_safety
 - [ ] Add colors and time for the logger
 - [ ] Add file logging, also rotated logging
