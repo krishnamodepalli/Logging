@@ -9,8 +9,7 @@ Logging.code-workspace
 
 # project folders
 bin/
-objs/
-include/
+obj/
 
 Makefile
 
